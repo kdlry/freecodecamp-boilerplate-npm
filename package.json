@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Kristen Delorey",
+  "description": "Learning back end at freecodecamp",
   "dependencies": {
     "express": "^4.14.0"
   },
