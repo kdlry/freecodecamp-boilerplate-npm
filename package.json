@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Kristen Delorey",
   "description": "Learning back end at freecodecamp",
+  "license": "MIT",
   "keywords": [
     "freecodecamp",
     "backend",
